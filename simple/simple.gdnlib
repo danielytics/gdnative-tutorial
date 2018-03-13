@@ -1,0 +1,14 @@
+[entry]
+
+OSX.64="res://libSimple.dylib"
+
+[dependencies]
+
+OSX.64=[  ]
+
+[general]
+
+singleton=false
+load_once=true
+symbol_prefix="godot_"
+reloadable=true
